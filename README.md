@@ -1,2 +1,2 @@
 # Support-Vector-Machine
-This is Support Vector Machine,  i build a class Support Vector Machine original 
+This is Support Vector Machine,  i build a class Support Vector Machine original in SVM.py
